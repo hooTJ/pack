@@ -1,4 +1,4 @@
-# pack
+# maven 项目自动化打包
 
 1、补全xjd_pack.conf对应的4项
 [sftp]
