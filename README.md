@@ -1,6 +1,6 @@
 # pack
 
-1、修改xjd_pack.conf对应的4项
+1、补全xjd_pack.conf对应的4项
 [sftp]
 sftp-hostname=***
 sftp-port=***
